@@ -28,7 +28,7 @@
 
 ## 💼 Experience  
 
-- 💻 **Software Engineer at Accenture**  
+- 💻 **Software Developer at Accenture**  
   - Building **GraphQL** + **JavaScript** APIs using **AWS AppSync**  
   - Working with **SQL (RDS)** for database operations and efficient data models  
   - ☁️ Developing serverless solutions with **AWS Lambda** and integrating with **S3 services**  
