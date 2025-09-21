@@ -21,7 +21,7 @@
 
 # 👋 Hi, I'm Sarvagy Jain  
 
-💬 Ask me about my experience with **Agentic AI** and **API development**  
+💬 Ask me about  **Agentic AI** and **API development**  
 🌱 I’m currently diving deeper into **AWS services** like **Bedrock** and **Agentic Core by AWS**  
 
 
